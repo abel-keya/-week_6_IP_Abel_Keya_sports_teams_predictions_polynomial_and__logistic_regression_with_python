@@ -12,6 +12,7 @@ FIFA World Ranking is a ranking system for men's national teams in association f
 #### Mchezopesa Ltd  is a betting company which requires  prediction result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly with respect to FIFA rankings the [dataset](https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view) 
 >
 # Requirements
+* Anaconda installation
 * Google colab
 * Setup instruction
 * Save a copy of the notebook in your drive and open it to access.

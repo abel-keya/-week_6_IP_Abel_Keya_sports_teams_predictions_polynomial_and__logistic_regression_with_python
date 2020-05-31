@@ -5,7 +5,7 @@
 
 >
 # Description
-Polynomial and Logistic Regression models to predict the number of gaols scored by a team playing home or away and the winning team.
+Polynomial and Logistic Regression models to predict the number of goals scored by a team playing home or away and the winning team.
 # Context
 FIFA World Ranking is a ranking system for men's national teams in association football. The teams of the men's member nations of FIFA, football's world governing body, are ranked based on their game results with the most successful teams being ranked highest. The rankings were introduced in December 1992, and eight teams (Argentina, Belgium, Brazil, France, Germany, Italy, the Netherlands and Spain) have held the top position, of which Brazil have spent the longest ranked first.
  A points system is used, with points being awarded based on the results of all FIFA-recognised full international matches.

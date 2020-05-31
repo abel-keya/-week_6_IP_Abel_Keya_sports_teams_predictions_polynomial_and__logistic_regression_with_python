@@ -15,7 +15,7 @@ FIFA World Ranking is a ranking system for men's national teams in association f
 * Google colab
 * Setup instruction
 * Save a copy of the notebook in your drive and open it to access.
-* Technologies used
+# Technologies used
 * Python 3.6
 * Pandas Python Library
 * Numpy Python Library

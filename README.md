@@ -26,5 +26,6 @@ FIFA World Ranking is a ranking system for men's national teams in association f
 In case of any clarifications or suggestions with regards to this project email me at jumakeya@gmail.com
 
 License
-Copyright (c) 2020  **Abel Keya **
+Copyright (c) 2020  
+**Abel Keya **
 

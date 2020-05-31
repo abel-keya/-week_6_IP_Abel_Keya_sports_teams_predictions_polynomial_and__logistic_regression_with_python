@@ -1,0 +1,2 @@
+# -week_6_IP_Abel_Keya_sports_teams_predictions_polynomial_and__logistic_regression_with_python
+Data Science project on   week_6_IP_Abel_Keya_sports_teams_predictions_polynomial_and__logistic_regression_with_python

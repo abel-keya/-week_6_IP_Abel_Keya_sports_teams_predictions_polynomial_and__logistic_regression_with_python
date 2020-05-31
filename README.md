@@ -1,7 +1,4 @@
-<p>
- <img src="FIFA.jpg" alt="By Abel Keya" title="FIFA Ranking" />
-</p>
-<p>
+
 # Description
 Polynomial and Logistic Regression models to predict the number of gaols scored by a team playing home or away and the winning team.
 # Context
@@ -25,4 +22,4 @@ In case of any clarifications or suggestions with regards to this project email 
 
 License
 Copyright (c) 2020 ** Abel Keya **
-</p>
+
